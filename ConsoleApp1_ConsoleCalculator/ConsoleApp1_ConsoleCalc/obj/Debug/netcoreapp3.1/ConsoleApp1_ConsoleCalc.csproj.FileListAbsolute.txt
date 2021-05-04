@@ -1,0 +1,13 @@
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.exe
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.deps.json
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.runtimeconfig.json
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.runtimeconfig.dev.json
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.dll
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.pdb
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.csprojAssemblyReference.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.AssemblyInfoInputs.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.AssemblyInfo.cs
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.dll
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.pdb
+C:\Users\Dino Emso\source\repos\ConsoleApp1_ConsoleCalc\ConsoleApp1_ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleApp1_ConsoleCalc.genruntimeconfig.cache
