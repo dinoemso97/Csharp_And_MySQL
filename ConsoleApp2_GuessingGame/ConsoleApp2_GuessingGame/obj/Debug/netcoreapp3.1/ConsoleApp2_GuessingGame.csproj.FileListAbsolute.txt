@@ -1,0 +1,13 @@
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.exe
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.deps.json
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.runtimeconfig.json
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.runtimeconfig.dev.json
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.dll
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\bin\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.pdb
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.csprojAssemblyReference.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.AssemblyInfo.cs
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.dll
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.pdb
+C:\Users\Dino Emso\source\repos\ConsoleApp2_GuessingGame\ConsoleApp2_GuessingGame\obj\Debug\netcoreapp3.1\ConsoleApp2_GuessingGame.genruntimeconfig.cache
