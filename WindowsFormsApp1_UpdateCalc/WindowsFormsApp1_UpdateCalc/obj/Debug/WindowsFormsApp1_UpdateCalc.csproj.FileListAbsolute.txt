@@ -1,0 +1,10 @@
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\bin\Debug\WindowsFormsApp1_UpdateCalc.exe.config
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\bin\Debug\WindowsFormsApp1_UpdateCalc.exe
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\bin\Debug\WindowsFormsApp1_UpdateCalc.pdb
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.Form1.resources
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.Properties.Resources.resources
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.csproj.GenerateResource.cache
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.csproj.CoreCompileInputs.cache
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.exe
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.pdb
+C:\Users\Dino Emso\source\repos\WindowsFormsApp1_UpdateCalc\WindowsFormsApp1_UpdateCalc\obj\Debug\WindowsFormsApp1_UpdateCalc.csprojAssemblyReference.cache
